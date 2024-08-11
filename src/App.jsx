@@ -3,7 +3,7 @@ import HomePages from './pages/HomePages';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import DetailPortfolio from './components/DetailPortofolio';
 import Experience from './pages/Experience';
-import PageNotFound from './pages/PageNotFOund';
+import PageNotFound from './pages/PageNotFound';
 
 function App() {
  return (
