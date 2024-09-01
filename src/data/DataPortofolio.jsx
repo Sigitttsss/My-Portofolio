@@ -1,8 +1,7 @@
 import landingTailwind from '../assets/landing-pageTailwind.png'
-import portfolioTailwind from '../assets/portfolioTailwindCSS.png'
 import reactPage from '../assets/reactTailwind.png'
 import portfolio5 from '../assets/simpleDashboard.png'
-import portofolio6 from '../assets/portofolio6.jpeg'
+import portofolio6 from '../assets/php.png'
 
 
 export const portofolioList = [
@@ -15,30 +14,23 @@ export const portofolioList = [
     },
     {
         id:'2',
-        title: 'Portofolio Tailwind CSS',
-        image: portfolioTailwind,
-        skill: 'Tailwind CSS',
-        link: `https://github.com/Sigitttsss/TailwindCSS`
-    },
-    {
-        id:'3',
         title: 'Landing Page ',
         image: reactPage,
         skill: 'React JS, Tailwind CSS',
         link: `https://github.com/Sigitttsss/ReactJS-Tailwind01`
     },
     {
-        id:'4',
+        id:'3',
         title: 'Dashboard Sederhana',
         image: portfolio5,
         skill: 'React Js, Library ANT Design',
         link: `https://github.com/Sigitttsss/dashboard-sederhana-ANT-Design`
     },
     {
-        id:'5',
-        title: 'Login System-PHP',
+        id:'4',
+        title: 'Student-Record PHP',
         image: portofolio6,
-        skill: 'PHP',
-        link: `https://github.com/Sigitttsss/loginsystem-PHP`
+        skill: 'PHP, Mysql',
+        link: `https://github.com/Sigitttsss/student-record`
     },
 ]
