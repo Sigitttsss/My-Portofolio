@@ -2,6 +2,7 @@ import landingTailwind from '../assets/landing-pageTailwind.png'
 import reactPage from '../assets/reactTailwind.png'
 import portfolio5 from '../assets/simpleDashboard.png'
 import portofolio6 from '../assets/php.png'
+import portofolio7 from '../assets/react-eshop.png'
 
 
 export const portofolioList = [
@@ -32,5 +33,12 @@ export const portofolioList = [
         image: portofolio6,
         skill: 'PHP, Mysql',
         link: `https://github.com/Sigitttsss/student-record`
+    },
+    {
+        id:'5',
+        title: 'React Shopsy',
+        image: portofolio7,
+        skill: 'ReactJs',
+        link: `https://github.com/Sigitttsss/react-shopsy`
     },
 ]
