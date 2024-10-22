@@ -6,6 +6,7 @@ import { MdOutlinePhp } from "react-icons/md";
 import { SiTailwindcss } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 import { FaGitAlt } from "react-icons/fa";
+import { FaLaravel } from "react-icons/fa";
 
 function About() {
   return (
@@ -16,13 +17,16 @@ function About() {
             <p className='text-center'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum nemo cum eligendi ullam aspernatur consectetur illo ipsum perferendis animi reiciendis?</p>
             <h4 className='text-center lg:text-5xl/tight text-2xl font-medium mt-4 mb-2'>Programming Languange & Tools</h4>
         <div className='flex justify-center gap-4'>
-            <FaHtml5 className='md:text-7xl text-9xl'/>
-            <FaCss3Alt className='md:text-7xl text-9xl'/>
-            <IoLogoJavascript className='md:text-7xl text-9xl'/>
-            <MdOutlinePhp className='md:text-7xl text-9xl'/>
-            <SiTailwindcss className='md:text-7xl text-9xl'/>
-            <FaReact className='md:text-7xl text-9xl'/>
-            <FaGitAlt className='md:text-7xl text-9xl'/>
+            <FaHtml5 className='md:text-8xl text-6xl'/>
+            <FaCss3Alt className='md:text-8xl text-6xl'/>
+            <IoLogoJavascript className='md:text-8xl text-6xl'/>
+            <MdOutlinePhp className='md:text-8xl text-6xl'/>
+        </div>
+        <div className='flex justify-center gap-4'>
+            <SiTailwindcss className='md:text-8xl text-6xl'/>
+            <FaReact className='md:text-8xl text-6xl'/>
+            <FaGitAlt className='md:text-8xl text-6xl'/>
+            <FaLaravel className='md:text-8xl text-6xl' />
         </div>
         </div>
     </div>
