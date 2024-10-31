@@ -3,6 +3,7 @@ import reactPage from '../assets/reactTailwind.png'
 import portfolio5 from '../assets/simpleDashboard.png'
 import portofolio6 from '../assets/php.png'
 import portofolio7 from '../assets/react-eshop.png'
+import portofolio8 from '../assets/e-shop-laravel.png'
 
 
 export const portofolioList = [
@@ -40,5 +41,12 @@ export const portofolioList = [
         image: portofolio7,
         skill: 'ReactJs',
         link: `https://github.com/Sigitttsss/react-shopsy`
+    },
+    {
+        id:'6',
+        title: 'SurfsideMedia(E-Shop) - Laravel 11',
+        image: portofolio8,
+        skill: 'Laravel 11',
+        link: `https://github.com/Sigitttsss/laravel-eshop`
     },
 ]
