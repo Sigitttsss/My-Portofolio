@@ -13,7 +13,7 @@ function About() {
     <div className='about pt-32' id='about'>
         <div className='container mx-auto px-4 dark:text-white'>
             <h1 className='text-center lg:text-5xl/tight text-3xl font-medium mb-2'>ABOUT</h1>
-            <p className='text-center'>Saya merupakan Junior Programmer pengalaman kerja 1,5 tahun di perusahaan Sinergi Informatika Semen Indonesia, <br/>serta memiliki kemampuan analisis yang baik serta kemampuan untuk terus belajar.</p> 
+            <p className='text-center'>Saya merupakan Junior Programmer pengalaman kerja 1,5 tahun di perusahaan Sinergi Informatika Semen Indonesia. <br/><br/>Serta memiliki kemampuan analisis yang baik serta kemampuan untuk terus belajar.</p> 
             
             <p className='text-center'>Punya kepribadian yang gigih dan pantang menyerah. Memiliki manajemen waktu yang baik.</p>
             <h4 className='text-center lg:text-5xl/tight text-2xl font-medium mt-4 mb-2'>Programming Languange & Tools</h4>
